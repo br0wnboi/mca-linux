@@ -1,6 +1,7 @@
 #!/bin/bash
 
 function sum {
+	echo ""
 	echo "Enter a number: "
 read num
 i=1
