@@ -19,4 +19,5 @@ do
     rev=$( echo ${rev}${sd} ) 
 done
  
-echo  "$on in a reverse order $rev" | tee reverseout.txt
+echo  "$on in a reverse order $rev"
+echo 	$rev > reverseout.txt
