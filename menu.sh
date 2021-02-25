@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 
 function sum {
 	echo ""
@@ -37,7 +37,7 @@ fi
 
 function checkprime {
 echo ""
-echo "enter number"
+echo "Enter number"
 read num
 function prime
 {
