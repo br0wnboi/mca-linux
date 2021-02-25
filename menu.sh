@@ -16,6 +16,7 @@ echo "The sum of first $num numbers is: $sum"
 
 
 function great3 {
+echo ""
 echo "Enter 1st Number"
 read num1
 echo "Enter 2nd Number"
@@ -35,6 +36,7 @@ fi
 }
 
 function checkprime {
+echo ""
 echo "enter number"
 read num
 function prime
